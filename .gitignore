@@ -1,0 +1,10 @@
+# Visual Studio
+.vs/
+bin/
+bin-int/
+*.user
+*.db
+*.opendb
+
+# Thư viện ngoài (Không nên đưa cả bộ cài lên)
+SDL2-devel*/
