@@ -12,4 +12,7 @@ namespace Renming {
 
 		void Run();
 	};
+
+	//to be defined in CLIENT 
+	ApplicationClass* CreateApplication();
 }

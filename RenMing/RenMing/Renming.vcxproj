@@ -25,7 +25,11 @@
     <ClInclude Include="src\Renming.h" />
     <ClInclude Include="src\Renming\ApplicationClass.h" />
     <ClInclude Include="src\Renming\Core.h" />
+    <ClInclude Include="src\Renming\EntryPoint.h" />
     <ClInclude Include="src\Test.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="SDL2.dll" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>

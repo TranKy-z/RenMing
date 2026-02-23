@@ -12,9 +12,7 @@ public:
 
 
 };
-int main() {
-	Sandbox* sandman = new Sandbox();
-	sandman->Run();
-	delete sandman;
-	return 0;
+
+Renming::ApplicationClass* Renming::CreateApplication() {
+	return new Sandbox();
 }
