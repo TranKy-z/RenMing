@@ -1,0 +1,3 @@
+[submodule "RenMing/RenMing/vendor/spdlog"]
+	path = RenMing/RenMing/vendor/spdlog
+	url = https://github.com/gabime/spdlog
